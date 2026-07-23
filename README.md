@@ -15,7 +15,7 @@ https://https-cpi-calculator-dashboard.streamlit.app/
 
 ## 📸 Dashboard Preview
 
-![CPI/SPI Calculator Dashboard](images/dashboard.png)
+![CPI/SPI Calculator Dashboard](dashboard.png)
 
 ---
 
@@ -51,8 +51,7 @@ CPI-Calculator-Dashboard/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── images/
-    └── dashboard.png
+└── dashboard.png
 ```
 
 ---
